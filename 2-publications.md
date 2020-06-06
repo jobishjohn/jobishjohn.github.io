@@ -12,61 +12,76 @@ tagline: "By date"
 <!--   <div class="manual manual-title">
   <strong>2017</strong>
   </div> -->
- <p>  <div class="manual-content">
-  <a  href="/papers/rehashing-icml19.pdf"  style="font-weight: bolder;">
-  Rehashing Kernel Evaluation in High Dimensions</a> <br>Paris Siminelakis*, <u class="dotted">Kexin Rong*</u>, Peter Bailis, Moses Charikar, Philip Levis. <br><i> ICML 2019.</i> <i style="font-weight: bolder;"> Long talk.</i>
-  <br><span>[<a href="https://dawn.cs.stanford.edu/2019/06/11/rehashing/">blog</a>][<a href="https://github.com/kexinrong/rehashing">code</a>]</span>
-  </div>
-</p>
 
 
- <p>  <div class="manual-content">
-  <a  href="https://arxiv.org/abs/1905.02304"  style="font-weight: bolder;">
-  CrossTrainer: Practical Domain Adaptation with Loss Reweighting</a><br> Justin Chen, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri, Peter Bailis. <br><i> SIGMOD DEEM Workshop 2019</i>.
-  <br><span>[<a href="https://github.com/stanford-futuredata/crosstrainer">code</a>]</span>
-  </div>
-</p>
-
-<p>  <div class="manual-content">
-  <a  href="#"  style="font-weight: bolder;">
-  Unsupervised Large‐Scale Search for Similar Earthquake Signals</a> <br>Clara E Yoon, Karianne J Bergen, <u class="dotted">Kexin Rong</u>, Hashem Elezabi, William L Ellsworth, Gregory C Beroza, Peter Bailis, Philip Levis. <br><i> Bulletin of the Seismological Society of America 2019.</i> 
-  </div>
-</p>
-
-
-<p>  <div class="manual-content">
-  <a  href="/papers/macrobase-tods18.pdf"  style="font-weight: bolder;">
-      MacroBase: Prioritizing Attention in Fast Data</a><br>Firas Abuzaid, Peter Bailis, Jialin Ding, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <i style="color:#aaaaaa">(* Alphabetical order)</i> <br><i>ACM TODS, 2018</i>.
-  </div>
-</p>
-
-   <p>  <div class="manual-content">
-  <a  href="/papers/quake-vldb18.pdf"  style="font-weight: bolder;">
-      Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science</a><br>
-      <u class="dotted">Kexin Rong</u>, Clara Yoon, Karianne Bergen, Hashem Elezabi, Peter Bailis, Philip Levis, Gregory Beroza. <br><i>VLDB 2018</i>.<br><span>[<a href="https://dawn.cs.stanford.edu/2018/09/05/quake/">blog</a>][<a href="https://www.youtube.com/watch?v=LXi0TIOOfEY">video</a>][<a href="https://github.com/stanford-futuredata/FAST">code</a>]</span>
-  </div>
-</p>
-
-   <p>  <div class="manual-content">
-  <a href="/papers/asap-vldb17.pdf" style="font-weight: bolder;">
-      ASAP: Prioritizing Attention via Time Series Smoothing</a><br>
-      <u class="dotted">Kexin Rong</u>, Peter Bailis.<br> <i>VLDB 2017.</i><br>
-      <span>[<a href="http://futuredata.stanford.edu/asap/">demo</a>][<a href="http://dawn.cs.stanford.edu/2017/08/07/asap/">blog</a>][<a href="https://www.datadoghq.com/blog/auto-smoother-asap/">Datadog blog</a>][<a href="https://vimeo.com/221062931">talk</a>][<a href="https://speakerdeck.com/futuredata/automating-dashboard-displays-with-asap">slides</a>][<a href="https://github.com/stanford-futuredata/ASAP">code</a>]</span> 
-  </div>
-</p>
-
-
-<p>  <div class="manual-content">
-	<a href="/papers/macrobase-sigmod17.pdf" style="font-weight: bolder;">
-      MacroBase: Prioritizing Attention in Fast Data</a> <br>
-      Peter Bailis, Edward Gan, Samuel Madden, Deepak Narayanan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>SIGMOD 2017.</i> <i style="font-weight: bolder;"> Invited to ACM TODS "Best of SIGMOD 2017" Special Issue.</i><br><span>[<a href="https://macrobase.stanford.edu/">website</a>][<a href="https://github.com/stanford-futuredata/macrobase">code</a>]</span><br>
-  </div>
-</p>
-<p>  <div class="manual-content">
-  <a href="/papers/macrobase-cidr17.pdf" style="font-weight: bolder;">
-      Prioritizing Attention in Fast Data: Principles and Promise</a><br>
-      Peter Bailis, Edward Gan, <u class="dotted">Kexin Rong</u>, Sahaana Suri. <br><i>CIDR 2017.</i><br>
-      <span>[<a href="https://blog.acolyer.org/2017/01/19/prioritizing-attention-in-fast-data-principles-and-promise/">blog</a>]</span>
-  </div>
-</p>
+<div>
+<span style="letter-spacing: 2px !important;font-weight: 400">Journals</span>
 </div>
+
+ <p>  <div class="manual-content">
+  <a  href="https://eudl.eu/pdf/10.4108/eai.13-7-2018.158420"  style="font-weight: bolder;">
+  Design and Implementation of a Wireless Sensor Network for Agricultural Applications</a> <br> <u class="dotted" >Jobish John</u>, Gaurav S. Kasbekar, Dinesh K. Sharma,
+V. Ramulu,  Maryam Shojaei Baghini. <br><i>  EAI Transactions on Internet of Things  </i>, October 2018. 
+  </div>
+</p>
+
+ <p>  <div class="manual-content">
+  <a  href="https://www.sciencedirect.com/science/article/abs/pii/S0924424715300479"  style="font-weight: bolder;">
+A Low-Power, Low-Cost Soil-Moisture Sensor Using Dual-Probe Heat-Pulse Technique</a>
+<br> Nikhil Jorapur, Vinay S.Palaparthy, Shahbaz Sarik, <u class="dotted">Jobish John</u>, Maryam ShojaeiBaghini, G.K.Ananthasuresh.
+<br><i>  Elsevier Sensors and Actuators A: Physical  </i>, Semptember 2015.
+  </div>
+</p>
+
+
+<div>
+<span style="letter-spacing: 2px !important;font-weight: 400">Conferences</span>
+</div>
+
+ <p>  <div class="manual-content">
+  <a href="https://ieeexplore.ieee.org/document/8738265?denied="  style="font-weight: bolder;">
+A Multi-hop Wireless Sensor Network for In-situ Agricultural Applications</a>
+<br> <u class="dotted">Jobish John</u>, Vinay S Palaparathy, Gaurav S Kasbekar, Maryam Shojaei Baghini.
+<br><i> Proc. of AP-RASC,</i> India, 2019.
+  </div>
+</p>
+
+
+ <p>  <div class="manual-content">
+  <a href="https://ieeexplore.ieee.org/document/7370444?denied="  style="font-weight: bolder;">
+A Wireless Multi-Sensor System for Soil Moisture Measurement</a>
+<br> P Aravind, Mangesh Gurav, Aakash Mehta, Rohan Shelar, <u class="dotted">Jobish John</u>, Vinay S Palaparthy, Kamlesh Kumar Singh, Shahbaz Sarik, Maryam Shojaei Baghini.
+<br><i> Proc. of IEEE Sensors,</i> South Korea, 2015.
+  </div>
+</p>
+
+
+ <p>  <div class="manual-content">
+  <a href="https://ieeexplore.ieee.org/document/7084901?denied="  style="font-weight: bolder;">
+Design and Implementation of a Soil Moisture Wireless Sensor Network</a>
+<br> <u class="dotted">Jobish John</u>, Vinay S Palaparthy, Shahbaz Sarik, Maryam Shojaei Baghini, Gaurav S Kasbekar.
+<br><i> Proc. of NCC,</i> India, 2015.
+  </div>
+</p>
+
+ <p>  <div class="manual-content">
+  <a href="https://ieeexplore.ieee.org/document/6808632"  style="font-weight: bolder;">
+Soil Moisture Measurement System for DPHP Sensors and In Situ Applications</a>
+<br>  Vinay S. Palaparthy, S.U. Susha Lekshmi, <u class="dotted">Jobish John</u>, Shahbaz Sarik, Maryam Shojaei Bhagini.
+<br><i> Proc. of ISED,</i> Singapore,, 2013.
+  </div>
+</p>
+
+
+<div>
+<span style="letter-spacing: 2px !important;font-weight: 400">Patents</span>
+</div>
+
+
+ <p>  <div class="manual-content">
+  <a  style="font-weight: bolder;">
+Automated Multi-Sensor and Multi Technique Measurement System for Agriculture Related Applications</a>
+<br> Maryam Shojaei Baghini, Vinay S. Palaparthy, Shahbaz Sarik, P. Aravind, Kamlesh Kumar Singh, Mangesh Gurav, <u class="dotted">Jobish John</u>  
+<br><i> (IPANo. 3054/MUM/2015),</i>.
+  </div>
+

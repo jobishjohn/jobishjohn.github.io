@@ -5,87 +5,88 @@ permalink: /experience/
 ---
 
 <div class="manual-post">
-  <div class="manual sectionTitle"><strong>Outreach</strong><br></div>
+<div class="manual sectionTitle"><strong>Academic</strong><br></div>
 <p>  <div class="manual-content">
 <exp>
   <div id="exp-text">
-    I help with <a href="http://curis.stanford.edu/">CURIS</a>, the department's undergraduate research program, and co-organize weekly lunches for Ph.D. track women in CS. In the past, I've also been involved in various science and engineering outreach events for underrepresented groups.
-  </div>
-    <div id="exp-logo"><img src="/assets/img/community.png"></div>
-</exp>
+   <a style="font-weight: bolder;" >Indian Institute of Information Technology, Kottayam </a> <br>
+<i> Assistant Professor (Adhoc)</i> <span style="letter-spacing: 2px !important; 400;float:right;"> [Dec'2019 - present]</span> 
 </div>
-</p>
-<br>
-<div class="manual sectionTitle"><strong>Teaching</strong><br></div>
-<p>  <div class="manual-content">
-  I served as a teaching assistant for the following classes: 
+<div class="manual-content">
 <exp>
   <div id="exp-text">
     <ul>
-<li><span style="letter-spacing: 2px !important;font-weight: 400">Stanford</span></li>
+<li><span style="letter-spacing: 2px !important;font-weight: 400">Courses</span></li>
     <ul>
-    <li>CS 161 - Design and Analysis of Algorithms</li>
+    <li>ICS 122 - Computer Organization</li>
+    <li>IEC 121 - Electronic Circuits and Measurements</li>
     </ul>
-<li><strong><span style="letter-spacing: 2px !important;font-weight: 400">Caltech</span> </strong> </li>
- <ul>
-    <li>CS 1 - Introduction to Computer Programming</li>
-    <li>CS 24 - Introduction to Computing Systems</li>
-    <li>CS 122 - Relational Database Implementation</li>
-    </ul>
-  </ul>
-  </div>
-  <div id="exp-logo"><img src="/assets/img/book.png"></div>
+</ul>
+ </div>
+<!---<div id="exp-logo"><img src="/assets/img/iiitk.jpg"></div> --->
 </exp>
 </div>
+<br>
+<br>
+<br>
+<!-- --------------------------------------------------->
+<p>
+<div class="manual-content">
+<exp>
+ <div id="exp-text">
+<a  style="font-weight: bolder;"> Indian Institute of Technology, Bombay </a> <br>
+<i> Teaching/Research Assistant,</i> Dept. of Electrical Engineering <span style="letter-spacing: 2px !important; float:right;"> [Jul’2012 - Dec’2019]</span>
+<br>
+<br>
+    <ul>
+    <li> Design and implementation a wireless sensor network for low duty cycled sensing applications (e.g., agricultural monitoring applications)</li>
+    <li> Conducting lab experiments and assisting professors in various courses for UG and PG students </li>
+    </ul>
+</div>
+<!--- <div id="exp-logo"><img src="/assets/img/iitb.png"></div>  --->
+</exp>
+</div><br>
+<br>
+<br>
 </p>
-<br>
-  <div class="manual sectionTitle"><strong>Internships</strong><br></div>
-<p>  <div class="manual-content">
+<!-- --------------------------------------------------->
+<div class="manual sectionTitle"><strong>Industry</strong><br></div>
+<p> <div class="manual-content">
 <exp>
-  <div id="exp-text">
-    <strong><span style="letter-spacing: 2px !important;font-weight: 400">Research Intern</span> <span style="letter-spacing: 2px !important;font-weight: 400;float:right;">MSR Redmond, 2019</span></strong><br>
-    Mentor: Srikanth Kandula, Yao Lu. <br> 
-    Approximate query processing for top-k queries.
-  </div>
-  <div id="exp-logo"><img src="/assets/img/ms.png"></div>
+ <div id="exp-text">
+  <a  style="font-weight: bolder;"> Proximal Soilsens Technologies Pvt. Ltd. </a> <br>
+<i> Founder/ Director/ Head, R&D,</i>  <span style="letter-spacing: 2px !important; float:right;"> [Jun’2017 - Jul’2019]</span>
+<br>
+<br>
+<ul>
+<li> Design and development of a soil monitoring system for precise irrigation by measuring various parameters such as soil moisture, soil temperature, atmospheric temperature and relative humidity </li>
+<li> Visit to several farms and interactions with farmers from different socio-economic backgrounds </li>
+<li> Discussions with agricultural scientists, NGOs, and similar enterprises to understand the agricultural market in India </li>
+<li> Trained in business skills by Prof. Michael G Lyons (Stanford University), at the DS Centre for Entrepreneurship and through S-CUBE programme by SINE, IIT Bombay </li>
+</ul>
+</div>
+<!--- <div id="exp-logo"><img src="/assets/img/soilsens.png"></div> --->
 </exp>
 <br>
-<br>
-<exp>
-  <div id="exp-text">
-    <strong><span style="letter-spacing: 2px !important;font-weight: 400">Software Engineering Intern</span> <span style="letter-spacing: 2px !important;font-weight: 400;float:right;">Pinterest, 2015</span></strong><br>
-    Collected training data, developed and evaluated models that can classify soft 404 pages with high precision.
-  </div>
-  <div id="exp-logo"><img src="/assets/img/pinterest.jpg"></div>
-</exp>
-<br>
-<br>
-<exp>
-  <div id="exp-text">
-    <strong><span style="letter-spacing: 2px !important;font-weight: 400">Server Platform Intern</span><span style="letter-spacing: 2px !important;font-weight: 400;float:right;">OpenX, 2015</span></strong><br>
-    Evaluated HBase as an alternative to their ad quality database based on MariaDB, and suggested ways to significantly cut down the database volume.
-  </div>
-  <div id="exp-logo"><img src="/assets/img/openx.png"></div>
-</exp>
-<br>
-<br>
-<exp>
-  <div id="exp-text">
-    <strong><span style="letter-spacing: 2px !important;font-weight: 400">Software Engineering Intern</span> <span style="letter-spacing: 2px !important;font-weight: 400;float:right;">Facebook, 2014</span></strong><br>
-    Reduced the update delay for custom audience membership in the Facebook Ads Audience Insights tool from several days down to one hour.
-  </div>
-  <div id="exp-logo"><img style="width:95%" src="/assets/img/facebook.png"></div>
-</exp>
-<br>
-<br>
-<exp>
-  <div id="exp-text">
-    <span style="letter-spacing: 2px !important;font-weight: 400">Software Engineering Intern</span>  <span style="letter-spacing: 2px !important;font-weight: 400;float:right"> Lookout, 2013 </span><br>
-    Built a generic app crawler based on Python Scrapy module. Created an internal web service to store, retrieve, edit, delete configurations and schedule tasks for this crawler.
-  </div>
-  <div id="exp-logo"><img style="width:95%" src="/assets/img/lookout.jpg"></div>
-</exp>
 
+
+<exp>
+ <div id="exp-text">
+<a  style="font-weight: bolder;"> Bharat Sanchar Nigam Limited (BSNL) </a> <br>
+<i> Telecom Technical Assistant,</i>  <span style="letter-spacing: 2px !important; float:right;"> [Feb’2010 - Mar’2012]</span><br><br>
+</div>
+<!--- <div id="exp-logo"><img src="/assets/img/bsnl.png"></div> --->
+</exp>
+<br>
+
+
+<exp>
+ <div id="exp-text">
+<a  style="font-weight: bolder;"> Larsen & Toubro Limited - Embedded Systems & Softwares (EmSyS) </a> <br>
+<i> Embedded Design Engineer,</i>  <span style="letter-spacing: 2px !important; float:right;"> [Jun’2007 - Feb’2010]</span><br><br>
+</div>
+<!-- <div id="exp-logo"><img src="/assets/img/lnt.png"></div> --->
+</exp>
 </div>
 </p>
-</div>
+
